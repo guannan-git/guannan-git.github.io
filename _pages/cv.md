@@ -24,7 +24,7 @@ Work experience
 ======
 * May 2026-present: **Assistant Professor** at Department of Design Automation and Computing System, School of Integrated Circuits, Peking University
 
-* Feb 2023-April 2026: **Principal Engineer** at Design Automation Lab Hong Kong Research Center (currently Leibniz Research Center), Huawei
+* Feb 2023-April 2026: **Principal Engineer** at Design Automation Lab, Hong Kong Research Center (currently Leibniz Research Center), Huawei
   * Duties: Responsible for hierarchical and parallelized static timing analysis frameworks, and parallelization algorithms in logic synthesis and physical design flows
 
 * May 2022-August 2022: **Senior Software Engineer Intern** in Logic Synthesis Group, Cadence Inc.
@@ -42,13 +42,13 @@ Work experience
   * Supervisor: Professor Martin D.F. Wong
 
 * August 2017-Dec 2022: **Graduate Teaching Assistant**, Artificial Intelligence (ECE 448) and GPU programming (ECE 408), UIUC
-  * Duties: Design machine problems and exams, organize course content, hold office hours, participate in various grading activities, provide technical answers in the class forum
+  * Duties: Design machine problems and exams, organize course content, hold office hours, participate in various grading activities, and provide technical answers in the class forum
 
 * Jan 2016-Dec 2016: **Undergraduate Teaching Assistant**, Computer System Engineering (ECE 391), UIUC
-  * Duties: Hold office hours, participate in various grading activities, present course material
+  * Duties: Hold office hours, participate in various grading activities, and present course material
 
 * May 2016-August 2016: **Undergraduate Research Assistant**
-  * Duties: Develop an automated program to solve simultaneous escape routing problem with SAT solver
+  * Duties: Research on an automated algorithm to solve simultaneous escape routing problem with SAT solver
   * Supervisor: Professor Martin D.F. Wong
 
 <!-- Skills

@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Design Automation and Computing System, School of Integrated Circuits at Peking University. I received Ph.D. degree in Electrical and Computer Engineering in 2023, M.S. degree in Electrical and Computer Engineering in 2020, and dual B.S. degrees in Computer Engineering (Highest Honor) and Applied Mathematics (High Distinction) in 2017, all pursued in University of Illinois at Urbana-Champaign (UIUC). From 2023 to 2026 I served as Principal Engineer at Huawei’s Design Automation Lab in Hong Kong Research Center, and I have held engineering internships at Cadence and IBM focused on logic synthesis, timing analysis, and high-performance EDA tooling. My graduate work and industry research focus on static timing analysis, parallelization algorithms for logic synthesis and physical design, and heterogeneous acceleration of EDA algorithms. Refer to my [Curriculum Vitae](/cv/) for more details.
+I am an Assistant Professor in the Department of Design Automation and Computing System, School of Integrated Circuits at Peking University. I received Ph.D. degree in Electrical and Computer Engineering in 2023, M.S. degree in Electrical and Computer Engineering in 2020, and dual B.S. degrees in Computer Engineering (Highest Honor) and Applied Mathematics (High Distinction) in 2017, all pursued in University of Illinois at Urbana-Champaign (UIUC). From 2023 to 2026, I served as Principal Engineer at Huawei’s Design Automation Lab in Hong Kong Research Center. Besides, I have held engineering internships at Cadence and IBM focused on logic synthesis, timing analysis, and high-performance EDA tooling. My graduate work and industry research focus on static timing analysis, parallelization algorithms for logic synthesis and physical design, and heterogeneous acceleration of EDA algorithms. Refer to my [Curriculum Vitae](/cv/) for more details.
 
 I am actively looking for motivated undergraduate and graduate students with background in computer science, microelectronics, electrical engineering, mathematics, statistics, or related areas, working on research fields of:
 1. Timing Analysis and Logic Synthesis on advanced chip designs
 2. High-performance (CPU-GPU Heterogeneous Accelerated) EDA Algorithms
-3. AI-assisted Timing Analysis and Logic Synthesis
+3. AI-predicted Timing Analysis
+4. AI-assisted Logic Synthesis and Chip Design
 
 Opening positions available for Ph.D., Post Doc, Engineer, and Interns. If you are interested, please contact me by email (<guannan.guo@pku.edu.cn>).
 
